@@ -3,32 +3,20 @@ Hi, I'm Srividya Krishnan
 
 I am a senior front-end engineer specializing in building scalable, accessible, and high-performance enterprise web applications. Because the vast majority of my professional career has been spent developing proprietary software for corporate clients under strict NDAs, my public GitHub activity does not reflect my daily production output.
 
-Hobby project - WIP - https://kidswear-brand-website-cmx3.vercel.app/
+**View My Hobby Project (WIP):** [Little Stars Kidswear Platform](https://vercel.app)
 ---
 
 ### Technical Expertise
-* **Frameworks:** Angular (version 2-21) , React
+* **Frameworks:** Angular (v14 - v22) , React
 * **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS
 * **State Management:** NgRx
 * **Architecture:** Micro-frontends, Component-Driven Design
 * **Design Systems:** Figma-to-code execution, Responsive Web Design
 * **Standards:** Accessibility (WCAG 2.1 AA Compliance), Clean Code (SOLID), Semantic UI
 
-CORE COMPETENCIES
+### Core Competencies
+Frontend Architecture | Reusable Component Design | Performance Optimization | REST API Integration | Single Page Applications (SPA) | PrimeNG | Angular Material | Bootstrap | Cross-Browser Compatibility | Technical Leadership | Agile/Scrum | Code Reviews & Mentoring | Sprint Planning & Estimation
 
-Frontend Architecture
-Reusable Component Design
-Performance Optimisation
-REST API Integration
-Responsive Web Design
-Single Page Applications (SPA)
-PrimeNG, Angular Material UI & Bootstrap
-HTML5 / CSS3/ SCSS / XML	Cross-Browser Compatibility
-Technical Leadership.	Agile / Scrum / TDD	Code Reviews & Mentoring
-Application Modernisation,	Sprint Planning & Estimation
-Component-Based Architecture, UI/UX Enhancement,	Git / GitHub / SVN / CI/ CD
-
----
 
 ### What I Bring to Teams
 * **Immediate Value:** Able to integrate into existing codebases quickly and deliver enterprise-grade code within tight sprint timelines.
