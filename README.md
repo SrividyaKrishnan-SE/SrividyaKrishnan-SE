@@ -6,12 +6,26 @@ I am a senior front-end engineer specializing in building scalable, accessible, 
 ---
 
 ### 🚀 Technical Expertise
-* **Frameworks:** Angular (version 2-21 , React
+* **Frameworks:** Angular (version 2-21) , React
 * **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS
 * **State Management:** NgRx
 * **Architecture:** Micro-frontends, Component-Driven Design
 * **Design Systems:** Figma-to-code execution, Responsive Web Design
 * **Standards:** Accessibility (WCAG 2.1 AA Compliance), Clean Code (SOLID), Semantic UI
+
+CORE COMPETENCIES
+
+Frontend Architecture
+Reusable Component Design
+Performance Optimisation
+REST API Integration
+Responsive Web Design
+Single Page Applications (SPA)
+PrimeNG, Angular Material UI & Bootstrap
+HTML5 / CSS3/ SCSS / XML	Cross-Browser Compatibility
+Technical Leadership.	Agile / Scrum / TDD	Code Reviews & Mentoring
+Application Modernisation,	Sprint Planning & Estimation
+Component-Based Architecture, UI/UX Enhancement,	Git / GitHub / SVN / CI/ CD
 
 ---
 
