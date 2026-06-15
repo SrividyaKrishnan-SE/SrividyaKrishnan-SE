@@ -2,7 +2,7 @@ Hi, I'm Srividya Krishnan👋
 ### Senior Frontend Developer | Angular Specialist
 
 I am a senior front-end engineer specializing in building scalable, accessible, and high-performance enterprise web applications. Because the vast majority of my professional career has been spent developing proprietary software for corporate clients under strict NDAs, my public GitHub activity does not reflect my daily production output.
-
+Hobby project - WIP - https://kidswear-brand-website-cmx3.vercel.app/
 ---
 
 ### 🚀 Technical Expertise
