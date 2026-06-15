@@ -1,12 +1,12 @@
-Hi, I'm Srividya Krishnan👋
-### Senior Frontend Developer | Angular Specialist
+Hi, I'm Srividya Krishnan
+### Senior Frontend Developer | Angular Specialist | Technical Lead For Aeroxchange client(via Encora), Former Consultant at Morgan Stanley Client( via Capgemini)
 
 I am a senior front-end engineer specializing in building scalable, accessible, and high-performance enterprise web applications. Because the vast majority of my professional career has been spent developing proprietary software for corporate clients under strict NDAs, my public GitHub activity does not reflect my daily production output.
 
 Hobby project - WIP - https://kidswear-brand-website-cmx3.vercel.app/
 ---
 
-### 🚀 Technical Expertise
+### Technical Expertise
 * **Frameworks:** Angular (version 2-21) , React
 * **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS
 * **State Management:** NgRx
@@ -30,7 +30,7 @@ Component-Based Architecture, UI/UX Enhancement,	Git / GitHub / SVN / CI/ CD
 
 ---
 
-### 💼 What I Bring to Teams
+### What I Bring to Teams
 * **Immediate Value:** Able to integrate into existing codebases quickly and deliver enterprise-grade code within tight sprint timelines.
 * **Collaboration:** Experience working asynchronously with cross-functional US-based teams and stakeholders.
 * **Quality First:** Dedicated to writing comprehensive unit tests and participating in rigorous peer code reviews.
